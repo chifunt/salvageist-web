@@ -1,8 +1,8 @@
 {
-  "loaderUrl": "Build/Web-2026-09-21T13-43-13.loader.js",
-  "dataUrl": "Build/Web-2026-09-21T13-43-13.data.unityweb",
-  "frameworkUrl": "Build/Web-2026-09-21T13-43-13.framework.js.unityweb",
-  "codeUrl": "Build/Web-2026-09-21T13-43-13.wasm.unityweb",
+  "loaderUrl": "Build/Web-2026-09-21T14-08-25.loader.js",
+  "dataUrl": "Build/Web-2026-09-21T14-08-25.data.unityweb",
+  "frameworkUrl": "Build/Web-2026-09-21T14-08-25.framework.js.unityweb",
+  "codeUrl": "Build/Web-2026-09-21T14-08-25.wasm.unityweb",
   "streamingAssetsUrl": "StreamingAssets",
   "companyName": "Salvageist",
   "productName": "Salvageist",
