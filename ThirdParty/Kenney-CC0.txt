@@ -1,0 +1,23 @@
+Impact Sounds (1.0)
+
+Created/distributed by Kenney (www.kenney.nl)
+Creation date: 19-12-2019
+
+License: Creative Commons Zero (CC0)
+http://creativecommons.org/publicdomain/zero/1.0/
+
+This content is free to use in personal, educational and commercial projects.
+Support us by crediting Kenney or www.kenney.nl (this is not mandatory).
+
+Salvageist provenance
+--------------------
+Source: https://kenney.nl/assets/impact-sounds
+Retrieved 2026-09-21 from Kenney's official distribution.
+This folder contains nine selected source recordings: impactMetal_heavy,
+impactPlate_heavy and impactSoft_heavy, takes 000, 001 and 002 of each.
+The original distribution is Ogg Vorbis. Derived WAV files in the parent
+directory are edited/layered by MechanicalAudioArt; WAV does not restore
+information discarded in the original compressed recordings.
+
+MechanicalAudioArt creates missing derivatives only. Existing authored audio
+is never regenerated on startup or silently overwritten by this command.

@@ -1,0 +1,10 @@
+{
+  "loaderUrl": "Build/Web-2026-09-21T13-43-13.loader.js",
+  "dataUrl": "Build/Web-2026-09-21T13-43-13.data.unityweb",
+  "frameworkUrl": "Build/Web-2026-09-21T13-43-13.framework.js.unityweb",
+  "codeUrl": "Build/Web-2026-09-21T13-43-13.wasm.unityweb",
+  "streamingAssetsUrl": "StreamingAssets",
+  "companyName": "Salvageist",
+  "productName": "Salvageist",
+  "productVersion": "web-prototype"
+}

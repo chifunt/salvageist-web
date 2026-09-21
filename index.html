@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#191724">
+  <meta name="description" content="Salvageist — command a swarm of machines, survive, and reclaim the fallen. A playable prototype.">
+  <title>Salvageist</title>
+  <link rel="stylesheet" href="web.css">
+</head>
+<body>
+  <main>
+    <canvas id="game" tabindex="0" aria-label="Salvageist game. Hold left mouse to move, right mouse or E to reclaim. Escape pauses."></canvas>
+    <section id="loading" aria-live="polite">
+      <div class="mark" aria-hidden="true">S</div>
+      <h1>SALVAGEIST</h1>
+      <p id="status">Establishing uplink…</p>
+      <progress id="progress" max="1" value="0" aria-label="Loading game"></progress>
+      <p class="note">Desktop browser · keyboard &amp; mouse · sound on</p>
+      <button id="retry" hidden>Reconnect</button>
+    </section>
+    <button id="fullscreen" aria-label="Toggle fullscreen" title="Fullscreen">⛶</button>
+    <details id="diagnostics" hidden>
+      <summary>Local diagnostics</summary>
+      <pre id="diagnostic-log"></pre>
+    </details>
+  </main>
+  <script src="web.js"></script>
+</body>
+</html>
