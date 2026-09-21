@@ -21,7 +21,6 @@ supported target yet.
   [SIL Open Font License](ThirdParty/Barlow-OFL.txt).
 - Mechanical audio incorporates Kenney Impact Sounds,
   [CC0 and provenance](ThirdParty/Kenney-CC0.txt).
-- [OneJS](ThirdParty/OneJS-MIT.txt) and [React](ThirdParty/React-MIT.txt), MIT.
 - [VContainer](ThirdParty/VContainer-MIT.txt), MIT, hadashiA.
 
 `artifact.json` identifies the exported runtime files and their SHA-256 checksums.

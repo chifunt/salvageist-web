@@ -1,25 +1,25 @@
 {
-  "built": "2026-09-21T14:13:55.421Z",
+  "built": "2026-09-21T20:46:49.091Z",
   "artifacts": [
     {
-      "path": "Build/Web-2026-09-21T14-08-25.loader.js",
+      "path": "Build/Web-2026-09-21T20-42-55.loader.js",
       "bytes": 117893,
-      "sha256": "98de5e571b2a2854b0fbe39dc639d0c01a798667e4223872e280b2ffdad2b32a"
+      "sha256": "15c76a9c2268e7d28292433a920ab97506e34fee87c9530b7c41418f9565b95b"
     },
     {
-      "path": "Build/Web-2026-09-21T14-08-25.data.unityweb",
-      "bytes": 11742291,
-      "sha256": "019144365e0e0a9f2fe90f963ae2808b59f94a2ce168e9cac8bc181e4e18aba6"
+      "path": "Build/Web-2026-09-21T20-42-55.data.unityweb",
+      "bytes": 11138516,
+      "sha256": "da575c9197c68e1a9f5350e0c9098de418b758f015f46cfd3aa6284d23f9c334"
     },
     {
-      "path": "Build/Web-2026-09-21T14-08-25.framework.js.unityweb",
-      "bytes": 87588,
-      "sha256": "5de59bb70493a1629560b7f7513dc0a767c5679e5386745807494944e549e423"
+      "path": "Build/Web-2026-09-21T20-42-55.framework.js.unityweb",
+      "bytes": 76403,
+      "sha256": "c875070f6768f88b773b1d4ffa70a5c0ed134d04377cf2623efbd9fa2d0397d8"
     },
     {
-      "path": "Build/Web-2026-09-21T14-08-25.wasm.unityweb",
-      "bytes": 11688471,
-      "sha256": "d344f6606375c00252092d1c88cfd030d9c2ddde96648c88d1bd2cee149423e2"
+      "path": "Build/Web-2026-09-21T20-42-55.wasm.unityweb",
+      "bytes": 9405684,
+      "sha256": "876360471c7d1d8c593544b08226055e06f98d93e41ecfd41d5f434494b12ff8"
     }
   ]
 }
